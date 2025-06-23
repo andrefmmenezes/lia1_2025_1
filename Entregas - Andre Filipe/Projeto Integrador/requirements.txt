@@ -1,0 +1,7 @@
+fastapi[all]
+uvicorn[standard]
+python-multipart
+openai-whisper
+# pip install --force-reinstall torch==2.3.0+cu121 torchvision==0.18.0+cu121 torchaudio==2.3.0+cu121 --index-url https://download.pytorch.org/whl/
+# pip install --force-reinstall numpy==1.26.4
+python-dotenv
