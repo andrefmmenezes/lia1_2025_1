@@ -1,0 +1,7 @@
+__pycache__
+.venv/
+.git
+.gitignore
+Dockerfile
+audios_testes
+temp_dir
